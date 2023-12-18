@@ -1,0 +1,570 @@
+.welcome {
+  text-align: center;
+  padding-top: 202px;
+}
+
+.welcome h1 {
+  color: #de1f04;
+  text-align: center;
+  font-family: Inter;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.welcome h2 {
+  color: #de1f04;
+  font-family: Inter;
+  font-size: 46px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.meta-btn {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.meta-btn button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.Meta-Logo {
+  margin-top: 175px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align: fixed;
+  width: 100%; 
+  height: 1440; 
+}
+
+.Meta-Logo img {
+  width: 100%; 
+  height: 1440; 
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.message-box {
+  position: absolute;
+  left: 397px;
+  top: 414px;
+  width: 646px;
+  height: 425px;
+  background-color: #db3490;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.message-box p {
+  font-size: 23px;
+  color: #0a0f13;
+  font-weight: bold;
+}
+
+.m-page-image {
+  position: absolute;
+  left: 360px;
+  top: 839px;
+  width: 629px;
+  height: 328px;
+}
+
+.back-to-home-button {
+  position: absolute;
+  left: 467px;
+  top: 1400px;
+  width: 506px;
+  height: 202px;
+  background-color: #3498db;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.back-to-home-button:hover {
+  background-color: #2980b9;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.message-box {
+  position: absolute;
+  left: 389px;
+  top: 500px;
+  width: 646px;
+  height: 300px;
+  background-color: #db3490;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.message-box h2 {
+  margin: 0;
+}
+.message-box p {
+  font-size: 23px;
+  color: #0a0f13;
+  font-weight: bold;
+}
+.mreg-image {
+  position: absolute;
+  left: 334px;
+  top: 1058px;
+  width: 750px;
+  height: 500px;
+}
+
+.back-button {
+  position: absolute;
+  left: 467px;
+  top: 1519px;
+  width: 506px;
+  height: 202px;
+  background-color: #3498db;
+  color: #fff;
+  font-size: 32px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+html {
+  width: 1440px;
+  height: 2005px;
+  /**/
+  background-image: url(../assets/backG.png);
+}
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%; 
+  height: 100%; 
+  background-size: 1440px 2005px;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+}
+
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+section {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1em;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.accident-image {
+  margin-left: 250px;
+  left: 237px;
+  top: 59px;
+  width: 965px;
+  height: 644px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.form-group {
+  margin: 15px 0;
+  text-align: center;
+  position: relative;
+}
+
+
+input::placeholder {
+  text-align: left;
+  font-size: 30px;
+}
+
+.submit-button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+}
+.submit-button,
+.previous-button {
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  width: 176px;
+  height: 82px;
+}
+.previous-button {
+  position: absolute;
+  left: 289px;
+  top: 1833px;
+  background-color: #db349b;
+  color: #fff;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.car-registration-form {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+  position: relative;
+}
+
+.car-image {
+  height: 864;
+  width: 1091;
+  text-align: center;
+  position: relative;
+}
+
+h2 {
+  color: #af1010;
+  font-size: 40px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.form-group {
+  margin: 15px 0;
+  text-align: center;
+  position: relative;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 5px;
+  position: absolute;
+  opacity: 0; 
+}
+
+input {
+  padding: 10px;
+  width: 800px; 
+  height: 50px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  border: 2px solid yellow; 
+  color: blue; 
+  border-radius: 10px;
+}
+
+
+input::placeholder {
+  text-align: left;
+  font-size: 30px;
+}
+
+.submit-button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+}
+.submit-button,
+.previous-button {
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  width: 176px;
+  height: 82px;
+}
+.previous-button {
+  position: absolute;
+  left: 289px;
+  top: 1833px;
+  background-color: #db349b;
+  color: #fff;
+}
+
+.m-image {
+  position: absolute;
+  left: 385px;
+  top: 125px;
+  width: 852px;
+  height: 678px;
+}
+
+.search-container {
+  position: absolute;
+  left: 193px;
+  top: 859px;
+  width: 853px;
+  height: 198px;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.vin-input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+.submit-button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.back-button {
+  position: absolute;
+  left: 467px;
+  top: 1519px;
+  width: 506px;
+  height: 202px;
+  background-color: #3498db;
+  color: #fff;
+  font-size: 32px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.previous-button {
+  position: absolute;
+  left: 289px;
+  top: 1755px;
+  width: 176px;
+  height: 82px;
+  background-color: #34db4a;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.accident-info-box {
+  position: absolute;
+  left: 195px;
+  top: 382px;
+  width: 1050px;
+  height: 384px;
+}
+
+.accident-info-image {
+  position: absolute;
+  left: 402px;
+  top: 10px;
+  width: 588px;
+  height: 405px;
+}
+
+.info-container {
+  border: 1px;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.previous-button {
+  position: absolute;
+  left: 289px;
+  top: 1755px;
+  width: 176px;
+  height: 82px;
+  background-color: #34db4a;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.status-container {
+  text-align: center;
+  padding-top: 40%;
+}
+
+.status-container h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.vin-input {
+  width: 1050px;
+  height: 139px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 24px;
+}
+
+.submit-button {
+  width: 176px;
+  height: 82px;
+  background-color: #3498db;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.submit-button:hover {
+  background-color: #2980b9;
+}
+
+.previous-button {
+  position: absolute;
+  left: 289px;
+  top: 1755px;
+  width: 176px;
+  height: 82px;
+  background-color: #3498db;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.previous-button:hover {
+  background-color: #2980b9;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw; 
+  height: 100vh; 
+}
+
+.ViewFunPage {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1440px; 
+  height: 1221px; 
+}
+
+.ViewFunPage img {
+  width: 100%;
+  height: 100%;
+}
+
+.Opetion-Fun {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+.Box1 button,
+.Box2 button,
+.Box3 button,
+.Box4 button {
+  width: 100%;
+  height: 100%;
+  color: #161111;
+  text-align: center;
+  font-family: Istok Web;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  background-color: #bdaee8;
+}
+
+.Box1 {
+  position: absolute;
+  left: 203px;
+  top: 1221px;
+  width: 466px; 
+  height: 183px; 
+  border-radius: 50px; 
+}
+
+.Box2 {
+  position: absolute;
+  left: 771px;
+  top: 1223px;
+  width: 466px;
+  height: 183px;
+  border-radius: 50px;
+}
+
+.Box3 {
+  position: absolute;
+  left: 203px;
+  top: 1459px;
+  width: 466px;
+  height: 183px;
+  border-radius: 50px;
+}
+
+.Box4 {
+  position: absolute;
+  left: 771px;
+  top: 1459px;
+  width: 466px;
+  height: 183px;
+}

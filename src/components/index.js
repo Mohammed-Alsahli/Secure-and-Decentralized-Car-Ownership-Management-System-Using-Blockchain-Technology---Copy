@@ -1,0 +1,10 @@
+export { default as Home } from "./Home";
+export { default as RegisterAccident } from "./RegisterAccident";
+export { default as RegisterCar } from "./RegisterCar";
+export { default as SearchPage } from "./SearchPage";
+export { default as ShowAllAccident } from "./ShowAllAccident";
+export { default as ViewFunPage } from "./ViewFunPage";
+export { default as AfterRegister } from "./AfterRegister";
+export { default as ViewGovermentside } from "./ViewGovermentside";
+export { default as MessageGovernoment } from "./MessageGovernoment";
+export { default as Verify } from "./Verify";
